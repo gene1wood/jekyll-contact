@@ -1,11 +1,11 @@
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=wernancheta&url=https://github.com/anchetaWern/jekyll-contact&title=jekyll-contact&language=ruby&tags=github&category=software)
 
-##Contact Plugin for Jekyll
+## Contact Plugin for Jekyll
 
 This plugin allows you to add a contact form to any page in your Octopress or Jekyll blog.
 You can use either [pooleapp.com](http://pooleapp.com/) or [formkeep](https://formkeep.com) for processing form submissions.
 
-###How to Use
+### How to Use
 
 You can use this plugin by adding the `contact.rb` file into the `octopress/plugins` directory. 
 For the JavaScript file that shows a success confirmation that the form was submitted, add the `contact.js` file inside the `source/javascripts` directory.
@@ -40,17 +40,17 @@ https://formkeep.com/f/xxxxxxxx
 ```
 
 
-###Updates
+### Updates
 
 - 01.01.2016 - Turns out formkeep is no longer free so you'll have to pay before you can use their service. I am yet to try whether the code still works for formkeep if you have paid. 
 
 
-###Demo
+### Demo
 
 You can try out the demo on my [blog](http://wern-ancheta.com/aboutme).
 
 
-##License
+## License
 
 The MIT License (MIT) Copyright (c)
 
